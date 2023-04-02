@@ -4,7 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+This is basic App which shows news content based on information provided by API.
 In the project directory, you can run:
+### `npm install`
+To install all the dependencies
 
 ### `npm start`
 
