@@ -1,6 +1,5 @@
 # Getting Started with Create React App
-This is basic App which shows news content based on information provided by News API.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### This is basic App which shows news content based on information provided by News API.
 
 ## Available Scripts
 
