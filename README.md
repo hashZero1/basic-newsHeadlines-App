@@ -4,7 +4,8 @@
 ![Asset 6](https://user-images.githubusercontent.com/117970097/230787616-813f6662-e4ee-4316-a3e3-15afdef40774.png)
 
 ## Available Scripts
-
+### You need to use your own News Api key in order to see content, news api doesn't support additional user.
+check it out @ (https://newsapi.org/)
 
 In the project directory, you can run:
 ### `npm install`
