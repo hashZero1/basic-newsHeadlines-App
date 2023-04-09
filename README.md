@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 ### This is basic App which shows news content based on information provided by News API.
 
+![Asset 6](https://user-images.githubusercontent.com/117970097/230787616-813f6662-e4ee-4316-a3e3-15afdef40774.png)
+
 ## Available Scripts
 
 
